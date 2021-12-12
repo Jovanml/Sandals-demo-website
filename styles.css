@@ -69,14 +69,14 @@ html, body {
 }
 
 .luxury-included{
-    background-image: url("/resources/second-image.jpg");
+    background-image: url("./resources/second-image.jpg");
 }
 
 .quality-inclusion{
-    background-image: url("/resources/third-image.jpg");
+    background-image: url("./resources/third-image.jpg");
 }
 
 
 .award-recognition{
-    background-image: url("/resources/fourth-image.jpg");
+    background-image: url("./resources/fourth-image.jpg");
 }
