@@ -56,7 +56,7 @@ html, body {
 }
 
 .change-view{
-    background-image: url("../resources/first-image.jpeg");
+    background-image: url(".../resources/first-image.jpeg");
     
 }
 
